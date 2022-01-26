@@ -1,4 +1,4 @@
-{ 
+{
    "name" : “Jose Rafael Muñoz Ortiz”,
    "role" : “Lead Developer | ASP.NET”,
    "data" : 
