@@ -14,7 +14,7 @@
   🚀 Principal Stack
 </h3> 
 <p>
-  <img src="https://img.shields.io/badge/.Net-20232A?style=for-the-badge&logo=.net&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.net&logoColor=0000">
 </p>
   
 <h4>Programming Languages</h4>
